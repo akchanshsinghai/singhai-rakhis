@@ -1,0 +1,1 @@
+setInterval(()=>{const e=document.getElementById('countdown'); if(e)e.innerText='Festival Countdown';},1000);
